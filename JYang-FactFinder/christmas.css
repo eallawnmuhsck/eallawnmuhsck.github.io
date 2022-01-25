@@ -5,7 +5,7 @@ body{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-    height: 100%;
+    	height: 100%;
 	background-image:url('images/christmas.jpg');
 }
 main{
@@ -34,7 +34,6 @@ section{
 	border-radius:5px;
 	margin-top:10px;
 	background-image:url('images/hotchocolate.jpg');
-	background-size:650px;
 	color:#792A2C;
 	font-size:20px;
 	margin-right:5px;
